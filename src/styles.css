@@ -107,7 +107,7 @@ p{
     display: flex;
     justify-content: space-around;
     padding: 60px;
-    color: white;
+    color: black;
 }
 
 .sub-section-alternative {
@@ -155,3 +155,4 @@ p{
     text-decoration: none;
     color: white;
  }
+
